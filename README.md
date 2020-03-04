@@ -1,6 +1,6 @@
 # tangibledata
 
-Download Tangible Data Repo: https://github.com/mmunch103/tangibledata
+Download Tangible Data Repo: https://github.com/xiuxiuyuan/TADA03 (orginally developed by Mika Munch)
 
 Dependencies: npm, node.js - this tutorial assumes both of these, as well as Arduino are already installed on your machine.
 
